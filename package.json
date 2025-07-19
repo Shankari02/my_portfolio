@@ -12,7 +12,8 @@
     "watch:eleventy": "eleventy --serve --incremental",
     "build:eleventy": "eleventy",
     "postbuild": "postcss _site/assets/css/*.css -u autoprefixer cssnano -r --no-map",
-    "clean": "rimraf './_site'"
+    "clean": "rimraf './_site'",
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "repository": {
     "type": "git",
