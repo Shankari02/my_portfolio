@@ -29,7 +29,3 @@ I started this blog to share what I’ve learned — and what I’m still learni
 ### Let’s Connect
 
 I’m always open to collaborations, questions, or geeky conversations about embedded systems. Feel free to reach out — whether you're hacking on a board, contributing upstream, or just starting your journey.
-
-📧 [shankari.anand618@gmail.com]
-🐙 [https://github.com/Shankari02]
-💬 Blog comments are open - I’d love to hear your thoughts!
