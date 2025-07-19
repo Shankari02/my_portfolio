@@ -16,27 +16,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template"
+    "url": "https://github.com/Shankari02/my_portfolio"
   },
   "author": {
-    "name": "Tyler M. Roderick",
-    "email": "troderick@protonmail.com",
-    "url": "https://www.tylerroderick.com/"
+    "name": "Shankari",
+    "email": "shankari.anand618@gmail.com",
+    "url": "https://Shankari02/github.io"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template/issues"
+    "url": "https://github.com/Shankari02/my_portfolio"
   },
-  "homepage": "https://github.com/tylerMRoderick/fernfolio-11ty-template",
+  "homepage": "https://github.com/Shankari02/my_portfolio",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-navigation": "^0.3.3",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "autoprefixer": "^10.4.8",
     "cross-env": "^7.0.3",
     "cssnano": "^5.1.12",
-    "esbuild": "^0.14.53",
+    "esbuild": "^0.25.7",
     "html-minifier": "^4.0.0",
     "luxon": "^1.25.0",
     "markdown-it": "^13.0.1",

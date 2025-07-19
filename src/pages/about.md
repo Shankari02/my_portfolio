@@ -1,31 +1,35 @@
 ---
 title: About Me
 subtitle: ""
-metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+metaDescription: Interested to know more about me, read ahead > <
+date: 2025-06-28
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+### Who am I?
 
-### Why create this?
+I’m Shankari, an embedded systems enthusiast who enjoys working at the intersection of hardware and low-level software. My main focus lies in developing firmware, writing drivers, and exploring the inner working of operating systems — especially Linux.
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+### What I Work On?
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+Over the past few years, I’ve worked on:
+- Linux kernel development and debugging.
+- Writing Linux kernel drivers for custom hardware.
+- Creating and modifying Device Tree files to enable platform support.
+- Developing and debugging embedded firmware for MCUs like the BeagleConnect Freedom, ESP32, BeaglePlay, and Raspberry Pi
+- Experimenting with things like real-time I/O, UART-to-DAC pipelines and system bring-up.
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+### Why I Started This Blog
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
+I started this blog to share what I’ve learned — and what I’m still learning. Its kind of my digital lab notebook — a place where I share the things I build, fix, break (and fix again). Whether it's a deep dive into the Linux kernel or a weekend project with an ESP32, I document the how and why behind the process.
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
+### Let’s Connect
 
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
+I’m always open to collaborations, questions, or geeky conversations about embedded systems. Feel free to reach out — whether you're hacking on a board, contributing upstream, or just starting your journey.
 
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+📧 [shankari.anand618@gmail.com]
+🐙 [https://github.com/Shankari02]
+💬 Blog comments are open - I’d love to hear your thoughts!
